@@ -1,0 +1,18 @@
+https://www.youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG
+
+장고 다운로드 : python3 -m pip install django
+
+https://github.com/ho-seok/django_project
+
+
+git bash 사용법
+
+git init : 현재 저장소 지정
+
+git status : 한번이라도 add or commit 된 파일 확인 할수 있는 명령어(빨간색 한번도 안됨)
+
+git commit -m "메세지" : 메세지 저장하는 명령어라는데 왜하는지 모르겠음
+
+git remote add origin "주소" : 별칭을 주기 위한 명령어
+
+git push origin master
